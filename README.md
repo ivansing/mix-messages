@@ -4,7 +4,7 @@ This is a web app to show random quotes messages of abundance from various popul
 
 ## FEATURES
 
-It shows the quote when the user clicks on the button, and if it click again it shows the next
+It shows the quote when the user clicks on the button, and if it clicks again it shows the next
 random quote.
 
 ## TECHNOLOGIES USED
